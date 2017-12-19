@@ -1,7 +1,7 @@
 {
-    "name"              :"HelloWorld",
+    "name"              :"hello-world",
     "description"       :"My first plugin",
-    "namespace"         :"HelloWorld",
+    "namespace"         :"hello-world",
     "author"            :"Your name",
     "type"              :"template",
     "serviceProvider"   :null
